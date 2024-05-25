@@ -1,0 +1,21 @@
+{
+    "name": "nontre/cqrs",
+    "description": "Common interfaces for CQRS pattern",
+    "homepage": "https://github.com/Nontre12/php-cqrs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nontre\\Cqrs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nontre",
+            "homepage": "https://github.com/Nontre12"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
